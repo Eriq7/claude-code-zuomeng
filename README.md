@@ -2,6 +2,8 @@
 
 A Claude Code skill that makes your AI look back at its own mistakes once a week, find the ones you never noticed, and get better on its own. "Zuomeng" (做梦) is Chinese for "dreaming".
 
+![Mistakes you see vs. the ones you never noticed](images/iceberg.png)
+
 ## Why I made it
 
 When the AI gets something wrong, most people notice it, correct it, and move on. But a lot of mistakes are buried. You don't even realize they're there, and fixing them could save you a lot of time later. Finding them can be automatic.
